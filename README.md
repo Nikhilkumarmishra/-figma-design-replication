@@ -1,5 +1,5 @@
 
-#Namaste
+# Namaste  [Its Live : https://fluffy-alpaca-af4ba1.netlify.app/]
 
 This project is a fully responsive website designed for newborn babies and younger kids, allowing parents to subscribe to services that provide specially curated audios and videos for their children's mental and social growth, as well as entertainment.
 
@@ -81,6 +81,7 @@ LinkedIn- https://www.linkedin.com/in/nikhil-kumar-mishra/
 Resume:- https://drive.google.com/file/d/1QDeSpEt040ZcKNRlxYeh-dFCX8sFs3VR/view?usp=drive_link
 
 
+# Site Is Live : https://fluffy-alpaca-af4ba1.netlify.app/       
 
 
 Thank you for being here and looking at my Work , Namaste and have a Pleasant day ahead😊!
