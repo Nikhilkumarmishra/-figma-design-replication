@@ -1,5 +1,4 @@
 
-https://github.com/Nikhilkumarmishra/-figma-design-replication/assets/87891556/23f2e0db-2d7f-4878-b843-141c865699bf
 #Namaste
 
 This project is a fully responsive website designed for newborn babies and younger kids, allowing parents to subscribe to services that provide specially curated audios and videos for their children's mental and social growth, as well as entertainment.
@@ -45,19 +44,27 @@ The objective of this assignment was to replicate the provided Figma design usin
 
 ![Screenshot (557)](https://github.com/Nikhilkumarmishra/-figma-design-replication/assets/87891556/0b0ff069-b2c8-4d14-85ba-e6663b9b37d0)
 
+.
+
 ![Screenshot (557)](https://github.com/Nikhilkumarmishra/-figma-design-replication/assets/87891556/99110f07-98d7-4a84-b99c-503ff4b65cca)
 
+.
 
 ![Screenshot (553)](https://github.com/Nikhilkumarmishra/-figma-design-replication/assets/87891556/9d582900-1d90-4405-a9a6-26ff5601d000)
 
+.
+
 ![Screenshot (551)](https://github.com/Nikhilkumarmishra/-figma-design-replication/assets/87891556/962d7e2d-45b9-4bc5-9b41-c9f381aefbd0)
+
+.
 
 ![Screenshot (555)](https://github.com/Nikhilkumarmishra/-figma-design-replication/assets/87891556/896336f1-40c8-4012-aaa7-d07fdc06b2e2)
 
+.
+
 ![Screenshot (558)](https://github.com/Nikhilkumarmishra/-figma-design-replication/assets/87891556/18a30dc6-7f06-490d-9cb5-dc55494db5ef)
 
-
-
+.
 
 Included some screenshots of the website in different screen sizes to showcase the design and responsiveness.
 
@@ -71,9 +78,9 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 For any questions or further information, please feel free to reach out.
 
 LinkedIn- https://www.linkedin.com/in/nikhil-kumar-mishra/
-Resume:- 
+Resume:- https://drive.google.com/file/d/1QDeSpEt040ZcKNRlxYeh-dFCX8sFs3VR/view?usp=drive_link
 
 
 
 
-Thank you for being here and looking at my Work , Namaste and have a good day!
+Thank you for being here and looking at my Work , Namaste and have a Pleasant day ahead😊!
